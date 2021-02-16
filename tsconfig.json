@@ -2,7 +2,8 @@
     "compilerOptions": {
         "target": "ES2016", 
         "lib": ["es2016",
-          "dom"  ]
+          "dom"  ],
+          "experimentalDecorators":true
              
     }
 }
